@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { assets, dummyDashboardData } from "../../assets/assets";
 import Title from "../../components/owner/Title";
-import { Car } from "lucide-react";
+// import { Car } from "lucide-react";
 
 const Dashboard = () => {
   const currency = import.meta.env.VITE_CURRENCY || "DHs";
