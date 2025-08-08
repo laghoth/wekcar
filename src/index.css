@@ -7,8 +7,8 @@
 }
 
 @theme {
-  --color-primary: #2563eb; /*Royal Blue */
-  --color-primary-dull: #1f58d8; /* Mariner */
+  --color-primary: #d4923e; /* Orange */
+  --color-primary-dull: #c07d29; /* hover orange */
   --color-light: #f1f5f9; /* Catskill White*/
   --color-borderColor: #c4c7d2; /* Ghost*/
 }
